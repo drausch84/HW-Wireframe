@@ -1,0 +1,107 @@
+body {
+    background-color: #666;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 70px;
+}
+h1 {
+    background-color: #efeee7;
+    color: black;
+    margin: 25px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+
+}
+.nav {
+    overflow: hidden;
+    background-color:#efeee7;
+    margin: -87px -26px 0px 24px;
+    padding-top: 0px;
+    width: 95.9%;
+    float: left;
+    
+}
+.nav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+}
+.nav a:hover{
+    background-color:#777;
+    color:black;
+}
+
+.section {
+    background-color: #efeee7;
+    float: left;
+    margin: -45px 23px 0px 24px;
+    padding: 20px;
+    width: 45%;
+}
+h5{
+    background-color:#efeee7;
+    text-align:center;
+    font-size:12px;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+}
+h4{
+    background-color:#efeee7;
+    text-align:center;
+    font-size:12px;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    margin:-35px;
+    padding:5px;
+}
+p1{
+    background-color:#efeee7;
+    text-align:center;
+    font-size:12px;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    padding: 45px;
+    margin: -35px;
+    padding-right: 82%;
+}
+article {
+    background-color: #666;
+    float:left;
+    margin: 5px;
+    padding: 65px;
+    width: 73%;
+}
+.aside{
+    float:right;
+    background-color:#efeee7;
+    margin:-442px 22px;
+    padding: 157px;
+    padding-left: 30%;
+    padding-right: 14%;
+    padding-bottom: 13.7%;
+}
+h6{
+    background-color:#efeee7;
+    text-align:center;
+    font-size:12px;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+}
+h7{
+    background-color:#efeee7;
+    text-align:center;
+    font-size:12px;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+}
+.footer{
+    position:absolute;
+    bottom:0;
+    width:93%;
+    height:60px;
+    background-color:#efeee7;
+    margin-left:24px;
+}
