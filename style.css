@@ -21,7 +21,7 @@ h1 {
     background-color:#efeee7;
     margin: -87px -26px 0px 24px;
     padding-top: 0px;
-    width: 95.9%;
+    width: 96.6%;
     float: left;
     
 }
@@ -67,7 +67,7 @@ p1{
     font-family: "Georgia", "Times New Roman", Times, serif;
     padding: 45px;
     margin: -35px;
-    padding-right: 82%;
+    padding-right: 85%;
 }
 article {
     background-color: #666;
@@ -80,7 +80,7 @@ article {
     float:right;
     background-color:#efeee7;
     margin:-442px 22px;
-    padding: 157px;
+    padding: 125px;
     padding-left: 30%;
     padding-right: 14%;
     padding-bottom: 13.7%;
@@ -100,7 +100,7 @@ h7{
 .footer{
     position:absolute;
     bottom:0;
-    width:93%;
+    width:94%;
     height:60px;
     background-color:#efeee7;
     margin-left:24px;
